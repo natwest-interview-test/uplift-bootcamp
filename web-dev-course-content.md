@@ -12,6 +12,12 @@
     <tr>
       <td colspan="4">
         <h2 id="Upliftbootcampcoursecontent-HTML">HTML</h2>
+        <p><strong>Self learning content</strong></p>
+        <p>Article: https://www.freecodecamp.org/news/html-full-course-for-beginners/</p>
+        <p>Video: <br />
+          - https://www.youtube.com/watch?v=pQN-pnXPaVg <br />
+          - https://www.youtube.com/watch?v=BsDoLVMnmZs&t=1753s <br />
+        </p>
       </td>
     </tr>
     <tr>
