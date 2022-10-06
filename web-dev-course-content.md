@@ -22,25 +22,21 @@
     </tr>
     <tr>
       <th>Topic</th>
-      <th colspan="1">Self learning content</th>
       <th>Date</th>
       <th>Expert</th>
     </tr>
     <tr>
       <td>Introduction and common HTML Elements</td>
-      <td colspan="1"><br /></td>
       <td><br /></td>
       <td><br /></td>
     </tr>
     <tr>
       <td>Forms and Input elements</td>
-      <td colspan="1"><br /></td>
       <td><br /></td>
       <td><br /></td>
     </tr>
     <tr>
       <td>Semantic HTML and its importance</td>
-      <td colspan="1"><br /></td>
       <td><br /></td>
       <td><br /></td>
     </tr>
@@ -62,6 +58,12 @@
     <tr>
       <td colspan="4">
         <h2 id="Upliftbootcampcoursecontent-CSS">CSS</h2>
+        <p><strong>Self learning content</strong></p>
+        <p>Article: [https://www.freecodecamp.org/news/html-full-course-for-beginners/](https://www.freecodecamp.org/news/learn-css-in-11-hours/)</p>
+        <p>Video: <br />
+          - [https://www.youtube.com/watch?v=pQN-pnXPaVg](https://www.youtube.com/watch?v=OXGznpKZ_sA) <br />
+          - [https://www.youtube.com/watch?v=BsDoLVMnmZs&t=1753s](https://www.youtube.com/watch?v=Edsxf_NBFrw) <br />
+        </p>
       </td>
     </tr>
     <tr>
