@@ -13,7 +13,10 @@
       <td colspan="4">
         <h2 id="Upliftbootcampcoursecontent-HTML">HTML</h2>
         <p><strong>Self learning content</strong></p>
-        <p>Article: https://www.freecodecamp.org/news/html-full-course-for-beginners/</p>
+        <p>Article: <br />
+          - https://www.freecodecamp.org/news/html-full-course-for-beginners/ <br />
+          - https://www.w3schools.com/html/
+        </p>
         <p>Video: <br />
           - https://www.youtube.com/watch?v=pQN-pnXPaVg <br />
           - https://www.youtube.com/watch?v=BsDoLVMnmZs&t=1753s <br />
@@ -59,18 +62,19 @@
       <td colspan="4">
         <h2 id="Upliftbootcampcoursecontent-CSS">CSS</h2>
         <p><strong>Self learning content</strong></p>
-        <p>Article: [https://www.freecodecamp.org/news/html-full-course-for-beginners/](https://www.freecodecamp.org/news/learn-css-in-11-hours/)</p>
+        <p>Article: <br />
+          - https://www.freecodecamp.org/news/html-full-course-for-beginners/ <br />
+          - https://www.w3schools.com/css/ <br />
+          - https://www.w3schools.com/css/css3_flexbox.asp
+        </p>
         <p>Video: <br />
-          - [https://www.youtube.com/watch?v=pQN-pnXPaVg](https://www.youtube.com/watch?v=OXGznpKZ_sA) <br />
-          - [https://www.youtube.com/watch?v=BsDoLVMnmZs&t=1753s](https://www.youtube.com/watch?v=Edsxf_NBFrw) <br />
+          - https://www.youtube.com/watch?v=OXGznpKZ_sA <br />
+          - https://www.youtube.com/watch?v=Edsxf_NBFrw <br />
         </p>
       </td>
     </tr>
     <tr>
       <th>Topic</th>
-      <th colspan="1">
-        <span>Self learning content</span>
-      </th>
       <th>Date</th>
       <th>Expert</th>
     </tr>
@@ -78,7 +82,6 @@
       <td>
         Introduction and common CSS selectorsm <span>Box model and Flex</span>
       </td>
-      <td colspan="1"><br /></td>
       <td><br /></td>
       <td><br /></td>
     </tr>
@@ -86,13 +89,11 @@
       <td>
         <span>Responsive web design (Media queries)</span>
       </td>
-      <td colspan="1"><br /></td>
       <td><br /></td>
       <td><br /></td>
     </tr>
     <tr>
       <td><br /></td>
-      <td colspan="1"><br /></td>
       <td><br /></td>
       <td><br /></td>
     </tr>
@@ -115,6 +116,15 @@
     <tr>
       <td colspan="4">
         <h2 id="Upliftbootcampcoursecontent-JavaScript">JavaScript</h2>
+        <p><strong>Self learning content</strong></p>
+        <p>Article: <br />
+          - https://www.freecodecamp.org/news/html-full-course-for-beginners/ <br />
+          - https://www.w3schools.com/html/
+        </p>
+        <p>Video: <br />
+          - https://www.youtube.com/watch?v=pQN-pnXPaVg <br />
+          - https://www.youtube.com/watch?v=BsDoLVMnmZs&t=1753s <br />
+        </p>
       </td>
     </tr>
     <tr>
